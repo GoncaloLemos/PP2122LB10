@@ -1,7 +1,7 @@
 package F10E1;
 
 /**
- *
+ * @author Pedro Simões [30007732], Gonçalo Lemos [30007523], LEI, D
  */
 public class Aluno {
     /**
